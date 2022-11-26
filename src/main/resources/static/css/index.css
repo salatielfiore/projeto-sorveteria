@@ -1,0 +1,194 @@
+.menu-index{
+    background-color: #363A3E;
+    width: 20% !important;
+    color: white;
+    text-align: center;
+    height: -webkit-fill-available;
+    position: absolute;
+    z-index: 9999;
+}
+
+a {
+    cursor: pointer;
+}
+
+.menu-index2{
+    background-color: #5665F2;
+    width: 22% !important;
+    padding: 27rem 5rem;
+    color: white;
+    text-align: center;
+    height: -webkit-fill-available;
+    position: absolute;
+}
+
+.logo-menu{
+    font-size: 1rem;
+}
+
+.list-menu{
+    position: relative;
+    display: inline-grid;
+    padding-top: 2.5rem;
+}
+
+.icons{
+    position: relative;
+    width: 2rem;
+    margin-left: 1rem;
+}
+
+
+.menu-nav{
+    position: relative;
+    display: flex;
+}
+
+.text-menu{
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    position: relative;
+    font-family: "Roboto" !important;
+}
+
+.division{
+    width: 100%;
+    border: 1px solid #525558;
+    margin-top: 5rem;
+}
+
+.system{
+    padding: 0rem 0rem 0rem 16rem;
+}
+
+.title-page{
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotron {
+    padding: 2rem 2rem !important;
+}
+
+.text-static{
+    left: 6rem;
+    font-family: "Roboto" !important;
+    font-size: 35px !important;
+    padding: 2.5rem 0rem !important;
+
+}
+
+.data{
+    left: 6rem;
+    padding: 2.8rem 0rem !important;
+    font-size: 20px !important;
+}
+
+.form-control-plaintext{
+    width: 45%;
+}
+
+.profile{
+    position: absolute;
+    left:65rem;
+    top: 15rem;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.table {
+    width: 100%;
+    margin: 0rem 0rem 0rem 1.7rem;
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+    background-color: transparent;
+    padding: 1.5rem 3rem !important;
+}
+
+.title-page1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 15rem;
+}
+
+.sorvetes{
+    font-size: 35px;
+    margin-bottom: 0 !important;
+}
+
+.form-register-product{
+    margin-left: 6rem;
+    width: 85%;
+    padding-top: 0.3rem;
+}
+
+.input-register-product{
+    border: 1px solid;
+    border-color: #DFDFDF !important;
+    border-radius: 10px !important;
+    background-color: #DFDFDF !important;
+    height: 3.5rem !important;
+}
+
+.text-register-product{
+    font-family: "Roboto" !important;
+    font-size: 25px !important;
+    padding: 0.5rem 0rem !important;
+}
+
+.buttons{
+    padding-top:2rem;
+    
+}
+
+.btn{
+    background-color: #212529 !important;
+    width: 60%;
+    padding: 3rem;
+    font-family: "Roboto" !important;
+    font-size: 20px !important;
+    padding: 0.5rem 0rem !important;
+    border-radius: 10px !important;
+}
+
+.col-buttons{
+    margin-left: 6rem;
+    display: flex;
+    margin-top: 2.5rem;
+    justify-content: center;
+}
+
+.table1 {
+    width: 97.3% !important;
+    margin: 0rem 0rem 0rem 1.7rem !important;
+    margin-bottom: 1rem !important;
+    margin-top: 0rem !important;
+    background-color: transparent !important;
+    padding: 1.5rem 3rem !important;
+}
+
+.dropdown-menu{
+    margin-left: 12rem !important;
+    background-color: #212529 !important;
+    color: white !important;
+    top: -60px !important;
+}
+
+.dropdown-item{
+    padding: 1rem 4rem !important;
+    color: white !important;
+
+}
+
+
+@media (min-width: 576px){
+.jumbotron {
+    padding: 2rem 2rem !important;
+}
+}

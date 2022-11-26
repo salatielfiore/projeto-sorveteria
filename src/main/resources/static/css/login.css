@@ -1,0 +1,77 @@
+.container{
+    height: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.class-logo{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 7rem;
+}
+
+.logo{
+    display: flex;
+    justify-items: center;
+}
+
+.class-form{
+    display: flex;
+    margin-top: 2rem;
+    position: relative;
+    font-family: "Roboto" !important
+}
+
+.form-check {
+    position: relative;
+    display: block;
+    padding-left: 0 !important;
+}
+
+.form-group{
+    width: 100%;
+    display: inline-block;
+}
+
+.form-control{
+    height: 2.5rem !important;
+    border: none !important;
+    border-radius: 0.45rem !important;
+    background-color: #DFDFDF !important;
+}
+
+.text-login{
+    font-size: 1.3rem;
+}
+
+
+.reset-password{
+   display: flex !important;
+   position: relative;
+   justify-content: right;
+   font-weight: bold;
+}
+
+.btn-login{
+    width: 100%;
+    background-color: #212529 !important;
+    color: white !important;
+    height: 2.5rem !important;
+    border: none !important;
+    border-radius: 0.45rem !important;
+}
+
+.problem-acess {
+    margin-top: 1rem;
+    display: flex;
+    position: relative;
+    justify-content: center;
+
+}
+
+#mensagemDeErro {
+    font-family: "Roboto";
+    color: red;
+}

@@ -1,0 +1,2 @@
+INSERT INTO tb_funcionario (name, email, password, funcao, adm) VALUES ('adm', 'adm@gmail.com','{bcrypt}$2a$10$gEknjDyl6wAv45KfANjkAeEpL86gOGFe7z4dWxI2xT/4KmSzjoj6m','gerente', true);
+INSERT INTO tb_funcionario (name, email, password, funcao, adm) VALUES ('usuario', 'usuario@gmail.com','{bcrypt}$2a$10$gEknjDyl6wAv45KfANjkAeEpL86gOGFe7z4dWxI2xT/4KmSzjoj6m','atendente', false);
